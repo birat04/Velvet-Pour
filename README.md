@@ -82,8 +82,8 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/birat04/gsap_cocktails.git
-   cd gsap_cocktails
+   git clone https://github.com/birat04/Velvet-Pour.git
+   cd Velvet-Pour.git
    ```
 
 2. **Install dependencies**
