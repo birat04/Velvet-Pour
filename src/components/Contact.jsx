@@ -39,7 +39,7 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Visit Our Bar</h3>
-		 <p>th Block, Koramangala, Bangalore - 560095</p>
+		 <p>9th Block, Koramangala, Bangalore - 560095</p>
 		</div>
 		
 		<div>
